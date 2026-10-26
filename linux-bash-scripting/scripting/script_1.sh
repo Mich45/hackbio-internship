@@ -1,0 +1,2 @@
+echo "First command"
+echo "Second command"
